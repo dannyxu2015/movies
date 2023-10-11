@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "title": "TEST",
+    "owner": "Danny",
+    "description": "test threat model 测试一下"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "diagram1",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ],
+    "reviewer": "Danny"
+  }
+}
